@@ -2,12 +2,12 @@
 Phoenix, AZ | (480) 326-7235 | martinantraxelm1@gmail.com
 
 
-##Skills
+## Skills
 
 **languages:** Spanish:Fluent, French: Beginner, and Portuguese: Beginner
 **Microsoft Applications:** MicrosoftWord, Excel, and PowerPoint.
 
-##Experience
+## Experience
 
 **Cruise, Scottsdale, AZ** AVTS/RA March 2022 - August 2023
 * Complete timely and detailed ride reports for our operations and engineering teams resulting in engineers receiving the proper data to better modify the vehicles AI. Algorithms. 
