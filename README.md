@@ -3,10 +3,12 @@ Phoenix, AZ | (480) 326-7235 | martinantraxelm1@gmail.com
 
 
 ##Skills
+
 **languages:** Spanish:Fluent, French: Beginner, and Portuguese: Beginner
 **Microsoft Applications:** MicrosoftWord, Excel, and PowerPoint.
 
 ##Experience
+
 **Cruise, Scottsdale, AZ** AVTS/RA March 2022 - August 2023
 * Complete timely and detailed ride reports for our operations and engineering teams resulting in engineers receiving the proper data to better modify the vehicles AI. Algorithms. 
 * Participate in the ongoing training of new AV Test Operators to assure the success of our company with competent AV Test Operators behind the wheel, with a success rate of 99.9% on monthly audit’s.
